@@ -5,16 +5,18 @@
 
 - 🔭 I’m currently working on [Jaro](tryjaro.com)
 
-- 🌱 I’m currently learning **LangChain, NextJS**
+- 🌱 I’m currently learning **LangChain, NextJS, AI and Agent Engineering**
 
 - 👯 I’m looking to collaborate on [LangChain](https://www.langchain.com/)
+  
+- I am Co-Host of the AI product and Dev podcast The Build on [https://www.buildaipod.com] or youtube [https://www.youtube.com/@the-build-podcast]
 
 - 🤝 I’m looking for help growing the [SoCal LangChain community](https://www.meetup.com/build-ai-ml-meetup-build-whats-next/)
 
 - 👨‍💻 All of my projects are available at [tomspencer.co](tomspencer.co)
 
-- 📝 I regularly write articles on [tomspencer.co](tomspencer.co)
-
+- 📝 I regularly post on [https://www.buildaipod.com]
+  
 - 💬 Ask me about **Startup Building**
 
 - 📫 How to reach me **tom@tomspencer.co**
